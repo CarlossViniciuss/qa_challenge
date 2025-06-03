@@ -32,7 +32,7 @@ Você foi contratado(a) como Analista de Qualidade de Software em uma empresa de
 - Faça um fork do repositório [**qa_challenge**](https://github.com/JOKR-Services/qa_challenge/fork) em um repositório público do github.
 - Cada assunto "extra" tem seu readme sinta-se a vontade para se expressar. 
 - Mantenha o commit history organizado, conventional commits é um diferencial.
-- Após a conclusão, a URL do repositório deve ser enviada para os emails **carlos.santana@soudaki.com** e **renata.azeredo@soudaki.com** com o assunto no formato:
+- Após a conclusão, a URL do repositório deve ser enviada para os emails **vinicios.borel@soudaki.com** e **renata.azeredo@soudaki.com** com o assunto no formato:
     - NOME_DO_CANDIDATO - Teste prático - QA Pleno
 
 # **Dicas Importantes**
