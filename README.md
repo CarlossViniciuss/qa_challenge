@@ -1,4 +1,4 @@
-# qa_challenge
+# Desafio de QA
 Respositório contendo o template + informações para o desafio da vaga de QA - Daki
 
 # **Cenário**
