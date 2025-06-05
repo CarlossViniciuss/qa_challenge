@@ -46,4 +46,30 @@ Você foi contratado(a) como Analista de Qualidade de Software em uma empresa de
 Boa sorte! 🚀
 
 # Anotações gerais
-// Adicione aqui suas anotações gerais sobre a estrutura utilizada e instruções de como executá-la
+Organização de analize:
+```
+challenge_features/
+├── challenge.md  → Arquivo de explicação de organização do projeto
+├── api/          → Cenarios relacionados à comunicação e comportamento dos microserviços de pagamento
+│   ├── pagamento.feature
+│   └── etc ...
+│
+├── mobile/       → Cenários da aplicação mobile nativa (Android/iOS)
+│   ├── home.feature
+│   ├── categorias.feature
+│   └── etc ...
+│
+├── web/          → Cenários da versão responsiva do site da Daki
+│   ├── navegacao_home.feature
+│   └── etc ...
+│
+└── Extras/         → Arquivos de apoio com análise e documentação
+    ├── analise_de_risco.md
+    ├── automacao.md
+    ├── metricas_de_qualidade.md
+    ├── testes_de_excecao.md
+    └── nao_funcionais.md
+
+```
+
+Inicie pelo challenge.md que se encontra na pasta /challenge

@@ -103,7 +103,7 @@ Ele apre a app store porem não encontra o app.
 
 ## Evidência
 📸 Screenshot:  
-<img src="images/Screenshot%202025-06-04%20at%2016.35.33.jpeg" width="300"/>
+<img src="../images/Screenshot%202025-06-04%20at%2016.35.33.jpeg" width="300"/>
 
 ## Status
 Ainda reproduzível ✔️
